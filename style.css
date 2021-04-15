@@ -1,0 +1,99 @@
+        html,
+        body,
+        header,
+        #intro {
+            height: 100%;
+        }
+        
+        @media (max-width: 768px) {
+            .navbar:not(.top-nav-collapse) {
+                background-color: #24355C;
+            }
+        }
+        
+        @media (min-width: 800px) and (max-width: 850px) {
+            .navbar:not(.top-nav-collapse) {
+                background-color: #24355C;
+            }
+        }
+        
+        .navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar bg-dark text-white {
+            height: 100px;
+        }
+        
+        #navgrid {
+            height: 50px;
+        }
+        
+        .img-fluid {
+            max-width: 100%;
+            height: auto;
+            width: 1600px;
+        }
+        
+        .navbar-brand img {
+            width: 50px;
+            margin-right: 20px;
+        }
+        
+        .navbar-toggler-icon {
+            padding-left: 8px;
+            padding-right: 8px;
+            border-right-width: 0px;
+            border-left-width: 0px;
+            border-top-width: 0px;
+            border-bottom-width: 0px;
+            height: 18px;
+            width: 26px;
+            padding-top: 0px;
+        }
+        
+        .navbar-toggler {
+            color: antiquewhite;
+            padding-right: 1px;
+            padding-left: 1px;
+            padding-bottom: 2px;
+            width: 30px;
+            padding-top: 0px;
+            border-top-width: 0px;
+            background-color: rgb(8, 8, 8);
+        }
+        
+        .dropdown-menu {
+            text-align: left;
+        }
+        
+        #intro {
+            background-position: no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+        
+        .top-nav-collapse {
+            background-color: #24355C;
+        }
+        
+        #services {
+            text-align: center;
+            padding-top: 15px;
+        }
+        
+        .img-fluid1 {
+            width: 300px;
+            height: 300px;
+        }
+        
+        #services-header {
+            height: 15px;
+            margin-top: 10px;
+        }
+        
+        #services-head {
+            text-align: center;
+        }
+        
+        #examples {
+            margin: 20px 40px 0px 40px;
+        }
