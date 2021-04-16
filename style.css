@@ -113,7 +113,7 @@
             background-color: rgb(14, 13, 13);
         }
         
-        #footer {
+        .footer-copyright {
             background-color: black;
             color: white;
         }
