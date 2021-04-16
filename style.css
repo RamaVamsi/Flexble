@@ -97,3 +97,18 @@
         #examples {
             margin: 20px 40px 0px 40px;
         }
+        
+        #contactus {
+            text-align: center;
+            background-color: black;
+            color: white;
+        }
+        
+        #contactUs text {
+            color: cornsilk;
+            text-align: center;
+        }
+        
+        .row mt-3 {
+            background-color: rgb(14, 13, 13);
+        }
