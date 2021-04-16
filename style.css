@@ -112,3 +112,8 @@
         .row mt-3 {
             background-color: rgb(14, 13, 13);
         }
+        
+        .footer-copyright {
+            background-color: black;
+            color: white;
+        }
